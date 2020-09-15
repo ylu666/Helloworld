@@ -1,4 +1,4 @@
 # Helloworld
-The first test projectt
-first branch
+The first test project.
+first branch.
 
